@@ -1,0 +1,13 @@
+[
+  { "numero": 1, "pregunta": "¿Qué se moja mientras seca?", "respuesta": "La toalla" },
+  { "numero": 2, "pregunta": "Blanca por dentro, verde por fuera. Si quieres que te lo diga, espera.", "respuesta": "La pera" },
+  { "numero": 3, "pregunta": "¿Qué tiene ciudades, pero no casas; bosques, pero no árboles; y ríos, pero no agua?", "respuesta": "El mapa" },
+  { "numero": 4, "pregunta": "Me puedes romper con una sola palabra, ¿qué soy?", "respuesta": "El silencio" },
+  { "numero": 5, "pregunta": "Tengo llaves pero no puertas, ¿qué soy?", "respuesta": "El piano" },
+  { "numero": 6, "pregunta": "Vuelo por el día y descanso por la noche, sin alas ni patas, ¿qué soy?", "respuesta": "La cometa" },
+  { "numero": 7, "pregunta": "Aunque me uses para ver, no me puedes ver. ¿Qué soy?", "respuesta": "El espejo" },
+  { "numero": 8, "pregunta": "¿Qué sube y sube pero nunca baja?", "respuesta": "La edad" },
+  { "numero": 9, "pregunta": "Tiene un asa y no es taza, tiene una boca y no es persona. ¿Qué es?", "respuesta": "La jarra" }
+]
+
+  
